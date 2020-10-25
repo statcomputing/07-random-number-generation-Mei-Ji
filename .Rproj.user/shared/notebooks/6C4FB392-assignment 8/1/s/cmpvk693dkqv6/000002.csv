@@ -1,0 +1,3 @@
+"0","mixture_distribution <- function(delta, x, mu1, mu2, sigma1, sigma2) {"
+"0","    delta * dnorm(x, mu1, sigma1) + (1 - delta) * dnorm(x, mu2, sigma2)"
+"0","}"

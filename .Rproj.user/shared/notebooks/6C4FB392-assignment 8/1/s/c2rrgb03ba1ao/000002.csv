@@ -1,0 +1,6 @@
+"0","plot4<- ggplot(data.frame(x = results[,4]), aes(x = x))+ "
+"0","  geom_histogram(aes(y=..density..))+labs(x = expression(""Values of""~sigma[1]), "
+"0","  y = expression("" Density of""~sigma[1]), title=expression(""Histogram of""~sigma[1]))"
+"2","Error in ggplot(data.frame(x = results[, 4]), aes(x = x)) : 
+  could not find function ""ggplot""
+"

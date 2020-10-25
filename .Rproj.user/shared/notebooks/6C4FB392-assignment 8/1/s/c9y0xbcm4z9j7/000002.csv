@@ -1,0 +1,5 @@
+"0","theta <- 3"
+"0","size <-10000"
+"0","sample <- gprocedure(size, theta)"
+"2","Error in gprocedure(size, theta) : could not find function ""gprocedure""
+"

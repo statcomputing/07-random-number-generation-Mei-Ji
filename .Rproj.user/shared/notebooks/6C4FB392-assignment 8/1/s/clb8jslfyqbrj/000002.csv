@@ -1,0 +1,5 @@
+"0","delta <- 0.7 # true value to be estimated based on the data"
+"0","n <- 100"
+"0","set.seed(123)"
+"0","u <- rbinom(n, prob = delta, size = 1)"
+"0","x0 <- rnorm(n, ifelse(u == 1, 7, 10), 0.5)"
